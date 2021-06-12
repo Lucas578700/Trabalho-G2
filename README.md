@@ -1,49 +1,37 @@
-<h1 align="center">Trabalho G2</h1>        👍
+# Trabalho G2
 
 <h1 align="center">
 <img alt="Logo do repositório incluindo o nome da disciplina, logo da AMF e o semestre
-2021/1 " src="capaGit.png" width="650px">
+2021/1 " src="Gerenciamento de Ti.jpg" width="650px">
 </h1>
-
-## Descrição do Trabalho
-<p align="center">O trabalho é sobre informações coletadas de uma lavoura de soja, onde vão ser vistos varios pontos da mesma</p>
 
 Tabela de conteúdos
 =================
 <!--ts-->
-* [Sobre](#Sobre)
-* [Tabela de Conteudo](#tabela-de-conteudo)
-* [Instalação](#instalacao)
-* [Como usar](#como-usar)
-* [Pre Requisitos](#pre-requisitos)
-* [Local files](#local-files)
-* [Remote files](#remote-files)
-* [Multiple files](#multiple-files)
-* [Combo](#combo)
-* [Tests](#testes)
-* [Tecnologias](#tecnologias)
+* Umidade do solo;
+* Tamanho das plantas (em cm);
+* Temperatura;
+* Umidade do ar;
+* Vento;
+* Dias da semana;
+* Temperatura máxima;
+* Temperatura mínima;
+* Precipitação;
 <!--te-->
-(#Sobre)Trabalho G2
-<h4 align="center">
 
-Trabalho em construção...
+### :ear_of_rice::hammer: Tecnologias
+
+* Aplicações loT
+* Estação meteológica
+* Meteorológicos atrvés de uma API
+
+<h4 align="center">
+  
+  #### Integrantes do grupo:
+  - Maicon Mazzonetto Rossatto
+  - Lucas Davila Seleprim
+  
+  :construction: Script em construção... :construction:
 
 </h4>
 
-### Pré-requisitos
-Para execução deste script você deverá instalar no git bash no Windows ou utilizar o
-terminal no Linux.
-Depois de baixar o arquivo principal, é preciso:
-- Entrar no Git bash
--Acessar pelo git bash o diretório Documentos
-- Depois acessar a pasta .ssh
-- Depois entre no git bash
-- Dentro do servidor foi desenvolvido todo o trabalho
-
-### Tecnologias
-As seguintes ferramentas foram usadas na construção do projeto:
-- [Git for windows](https://git-scm.com/downloads/)
-- [Wget for git bash](https://eternallybored.org/misc/wget/)
-
-#### Autor
-Lucas Davila Seleprim
